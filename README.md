@@ -11,9 +11,13 @@
 - Figma/Adobe Illustrator
 
 ### Design
-Link - https://www.figma.com/file/296ZEFUeObypozNKAtUujM/School-Website
+These are initial design files. Actual site might differ 
+- [Main Website - Web view](https://www.figma.com/proto/296ZEFUeObypozNKAtUujM/School-Website?page-id=137%3A527&node-id=137%3A528&viewport=241%2C48%2C0.13&scaling=min-zoom)
+- [Main Website - Mobile view](https://www.figma.com/proto/296ZEFUeObypozNKAtUujM/School-Website?page-id=0%3A1&node-id=3%3A4&viewport=241%2C48%2C0.38&scaling=scale-down&starting-point-node-id=3%3A4)
+- [Log-in Page](https://www.figma.com/proto/296ZEFUeObypozNKAtUujM/School-Website?page-id=322%3A427&node-id=322%3A428&viewport=241%2C48%2C0.89&scaling=contain)
+- [Student Portal - Web view](https://www.figma.com/proto/296ZEFUeObypozNKAtUujM/School-Website?page-id=153%3A467&node-id=153%3A468&viewport=241%2C48%2C0.29&scaling=contain)
+- [Student Portal - Mobile view](https://www.figma.com/proto/296ZEFUeObypozNKAtUujM/School-Website?page-id=29%3A131&node-id=34%3A432&viewport=241%2C48%2C0.41&scaling=min-zoom&starting-point-node-id=34%3A432)
 
-*******************
 ## Main Website
 ### Sections
 * Landing Page
@@ -56,4 +60,5 @@ Link - https://www.figma.com/file/296ZEFUeObypozNKAtUujM/School-Website
 ------------
 #### Creators
 MG and Jedd
+
 All rights reserved August 2021 
