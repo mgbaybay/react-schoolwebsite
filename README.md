@@ -2,7 +2,7 @@
 
 ### Live link
 
-[live link](https://reactschool-iwfb7gsik-alpha2omegamu.vercel.app)
+- [live link](https://reactschool-iwfb7gsik-alpha2omegamu.vercel.app)
 
 ### Technologies used
 - HTML5
