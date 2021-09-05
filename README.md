@@ -11,7 +11,7 @@
 - Figma/Adobe Illustrator
 
 ### Design
-These are initial design files. Actual site might differ 
+These are the initial design files. Actual site might differ 
 - [Main Website - Web view](https://www.figma.com/proto/296ZEFUeObypozNKAtUujM/School-Website?page-id=137%3A527&node-id=137%3A528&viewport=241%2C48%2C0.13&scaling=min-zoom)
 - [Main Website - Mobile view](https://www.figma.com/proto/296ZEFUeObypozNKAtUujM/School-Website?page-id=0%3A1&node-id=3%3A4&viewport=241%2C48%2C0.38&scaling=scale-down&starting-point-node-id=3%3A4)
 - [Log-in Page](https://www.figma.com/proto/296ZEFUeObypozNKAtUujM/School-Website?page-id=322%3A427&node-id=322%3A428&viewport=241%2C48%2C0.89&scaling=contain)
