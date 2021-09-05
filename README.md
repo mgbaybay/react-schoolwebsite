@@ -1,3 +1,3 @@
 # react-schoolwebsite
 
-[live link](https://alpha2omegamu.github.io/school-website)
+[live link](https://reactschool-iwfb7gsik-alpha2omegamu.vercel.app)
